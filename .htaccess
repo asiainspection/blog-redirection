@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^(.*)$ https://techtalks.qima.com/$1 [L,R=301]
